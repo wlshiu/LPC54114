@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['pack48',['pack48',['../group__i2s__driver.html#a05e651099ce845bcba1144d2f3e8b6ca',1,'i2s_config_t::pack48()'],['../group__i2s__driver.html#a6665cfa3da935e04753a0a298583773d',1,'_i2s_handle::pack48()']]],
+  ['parity',['parity',['../group__usart__freertos__driver.html#a07bf211da1c7475ae952bc3c92d668fe',1,'rtos_usart_config']]],
+  ['paritymode',['parityMode',['../group__usart__driver.html#aff1d7e368b35ae89db8aa393207e7ccc',1,'usart_config_t']]],
+  ['pdmdata',['pdmData',['../group__i2s__driver.html#a8efa96b199acf938b960f7d869a74224',1,'i2s_config_t']]],
+  ['phase',['phase',['../group__spi__driver.html#a21b6f74dbeb89a81460cd618b7da042b',1,'spi_master_config_t::phase()'],['../group__spi__driver.html#ac6d76d6b354491d5b43756fdf8ef07d6',1,'spi_slave_config_t::phase()']]],
+  ['pindirection',['pinDirection',['../group__lpc__gpio.html#a70aed128003103272f5740f12fbff525',1,'gpio_pin_config_t']]],
+  ['polarity',['polarity',['../group__spi__driver.html#ac8d9a8c7a526b96cbe3105d6e06b1cce',1,'spi_master_config_t::polarity()'],['../group__spi__driver.html#a32c240620581fcb133877d4fbda21226',1,'spi_slave_config_t::polarity()']]],
+  ['polynomial',['polynomial',['../group__crc.html#afbe53ea36b200e69cb7f693e6f0a11f1',1,'crc_config_t']]],
+  ['position',['position',['../group__i2s__driver.html#a6fb24ddef6640286ba084acb69740f77',1,'i2s_config_t']]],
+  ['post_5fdc_5fgain_5freduce',['post_dc_gain_reduce',['../group__dmic__driver.html#ac8afe87419218c7247a734ba453448ea',1,'dmic_channel_config_t']]],
+  ['postdelay',['postDelay',['../group__spi__driver.html#a960b87887e431dabbb5641109cb56d90',1,'spi_delay_config_t']]],
+  ['preac2coef',['preac2coef',['../group__dmic__driver.html#aa031a543c2c392915e17d733a316b7da',1,'dmic_channel_config_t']]],
+  ['preac4coef',['preac4coef',['../group__dmic__driver.html#a0b04c7a6c72b7dc1da046dd2cb34ed18',1,'dmic_channel_config_t']]],
+  ['predelay',['preDelay',['../group__spi__driver.html#a24a2584817f03d1ace0a6cecc718bc09',1,'spi_delay_config_t']]],
+  ['prescale',['prescale',['../group__ctimer.html#aa8baec2c586854dc58ff4cdb82b7996b',1,'ctimer_config_t']]],
+  ['prescale_5fh',['prescale_h',['../group__sctimer.html#aaa1765ca5c51528130a6dc9dd06f2e7a',1,'sctimer_config_t']]],
+  ['prescale_5fl',['prescale_l',['../group__sctimer.html#aad4f208b7074a27d1a085471bd00cd0a',1,'sctimer_config_t']]]
+];
